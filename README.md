@@ -1,5 +1,4 @@
 # CarRental
-C++ Project that simulates real vehicle rental store
 
 ## Table of Content
 * [General Info](#general-info)
